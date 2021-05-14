@@ -2,6 +2,8 @@
 CSE 544(Probability &amp; Statistics for Data Science) Final Project
 
 
+NOTE: 
+
 You need to unzip SF_CrimeDataset.zip file and the csv file inside it should be in the same directory as python file.
 
 
